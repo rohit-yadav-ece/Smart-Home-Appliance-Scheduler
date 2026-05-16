@@ -1,5 +1,9 @@
 # 🏠 Smart Home Appliance Scheduler
 
+### 🚀 [Live Demo ↗](https://smart-home-appliance-scheduler-lkhb8bycp6yndwbojq3vbr.streamlit.app/)
+
+Try the live interactive dashboard right now — no installation needed!
+
 > **A DSA-driven IoT task scheduler that optimizes appliance execution order, respects device dependencies, and reduces peak-power consumption by up to 75% — all in `O(log n)` per event.**
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
