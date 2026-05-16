@@ -127,11 +127,8 @@ This scheduler can be integrated into:
 **Rohit Yadav**
 B.Tech ECE · Birla Institute of Technology, Mesra (CFTI)
 - 🌐 GitHub: [github.com/rohit-yadav-ece](https://github.com/rohit-yadav-ece)
-- 🚀 Live ML Project: [BLDC Energy Analytics ↗](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/)
 - 📧 btech15094.23@bitmesra.ac
 
 ---
 
-## 📜 License
 
-MIT License — feel free to fork, adapt, and learn from this project.
